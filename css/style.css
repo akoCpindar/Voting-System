@@ -1,0 +1,97 @@
+﻿body {
+    font-family: 'Open Sans', sans-serif;
+    font-size:14px;
+    line-height:25px;
+   background-color:#FFF;
+   color:#000;
+}
+
+h5 .btn-default:hover{
+	background-color: blue;
+}
+.text-center {
+    text-align:center;
+}
+.sub-head {
+        padding-bottom:50px;
+        display:block;
+    }
+.pad-top-botm {
+    padding-top:50px;
+    padding-bottom:50px;
+}
+  
+h2 {
+    color:#ff0000;
+    font-weight:900;
+    
+}
+h3{
+    color:#159238;
+    
+}
+
+/*=====================================
+ HOME SECTION
+    ===================================*/
+
+    #home h1 {
+        padding:150px 20px 20px 0px;
+        color:#ff0000;
+        font-size:40px;
+        font-weight:900;
+
+    }
+    #home .head-text span {
+        display: block; 
+        font-size: 25px; 
+        color: #fff; 
+        margin-bottom: 25px;
+    }
+        #home .head-text span >i {
+             margin-right: 10px; 
+             color: #159238;
+        }
+     #home p {
+        padding:10px 20px 20px 20px;
+        color:#fff;
+        font-size:16px;
+        line-height:20px;
+        font-weight:800;       
+       text-align:center;
+    }
+    #home .overlay {
+        background:rgba(0, 0, 0, 0.7);        
+        height:100vh;
+    }
+    #home h3 {
+        color:#fff;
+    }
+    .div-trans {
+	padding-top: 5px;
+	background-color: rgba(10, 20, 30, 0.5);
+	min-height: 330px;
+	margin-top: 150px;
+	color: #fff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	margin-bottom: 30px;
+	}
+    .div-trans i {
+        margin-left: 10px; 
+        margin-right: 10px; 
+        color: #159238;
+    }
+    .div-trans span {
+        color: #ff0000;
+    }
+    .div-trans button {
+        background-color: #159238;
+	}
+	#home .form-control {
+		background-color:transparent;
+	}
+
+
+ 
